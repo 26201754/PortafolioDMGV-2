@@ -1,0 +1,16 @@
+.bordes{
+    border: solid 1px rgb(204, 164, 34); 
+    height: 200px;
+}
+.fondo-rojo{
+background: rgb(170, 23, 121);
+}
+.fondo-azul{
+background: rgb(50, 184, 189);
+}
+.fondo-verde{
+background: rgb(28, 125, 180);
+}
+.fondo-amarillo{
+    background: rgb(30, 197, 15);
+}
